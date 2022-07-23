@@ -3,4 +3,4 @@
 
 This is a Weather App made in Java using weatherapi
 
-![alt text](https://github.com/Dev-Bhandari/Weather-App/app/src/main/res/drawable/weather_app_demo.jpg?raw=true)
+![weather_app_demo](https://user-images.githubusercontent.com/52774043/180593779-107e0f83-a795-4c96-9bb5-79731ef0df9b.jpg)
